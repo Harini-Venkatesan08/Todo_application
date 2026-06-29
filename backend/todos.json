@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Get milk, bread, butter, and fresh vegetables from the local market.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-07-05",
+    "createdDate": "2026-06-28T22:52:10.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Complete assignment",
+    "description": "Finish building the full-stack Todo application by tonight.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-06-29",
+    "createdDate": "2026-06-28T22:53:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Clean room",
+    "description": "Organize desk and vacuum the carpet.",
+    "status": "Completed",
+    "priority": "Low",
+    "dueDate": "2026-06-27",
+    "createdDate": "2026-06-27T10:00:00.000Z"
+  }
+]
