@@ -116,8 +116,9 @@ Challenge2/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd Challenge2
+git clone https://github.com/Harini-Venkatesan08/Todo_application.git
+
+cd Todo_application
 ```
 
 ### 2. Backend Setup
