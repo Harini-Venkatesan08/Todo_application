@@ -197,22 +197,12 @@ curl -X POST http://localhost:5000/todos \
 > Add screenshots of your application below.
 
 | View | Screenshot |
-| :--- | :--- |
-| **Todo List (Main Page)** 
-![Todo List (Main Page)](../screenshots/todo-main.png)
-
-| **Add Todo** | 
-![Add Todo](../screenshots/add-todo.png)
-
-| **Edit Todo** |
-![Edit Todo](../screenshots/edit-todo.png)
-
-| **Task Detail Page** |
-![Task Detail](../screenshots/taskdet-todo.png)
-
-| **Search & Filter** | 
-![Search Filter](../screenshots/search-todo.png)
-
+|------|------------|
+| **Todo List (Main Page)** | ![Todo List](screenshots/todo-main.png) |
+| **Add Todo** | ![Add Todo](screenshots/add-todo.png) |
+| **Edit Todo** | ![Edit Todo](screenshots/edit-todo.png) |
+| **Task Detail Page** | ![Task Detail](screenshots/taskdet-todo.png) |
+| **Search & Filter** | ![Search Filter](screenshots/search-todo.png) |
 
 ---
 
